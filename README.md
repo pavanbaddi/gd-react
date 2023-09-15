@@ -20,7 +20,7 @@ REACT_APP_LISTING_API_URL=https://api.github.com/orgs/godaddy/repos
 - open terminal
 - run command `npm install` to install libraries
 - use command `npm start` to run the project
-- use command to run tests `npm test`
+- use command to run tests `npm test src/App.test.js`
 
 
 ## Description
