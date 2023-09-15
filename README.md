@@ -6,7 +6,18 @@
 
 ## Installation
 - unzip the file
-- go inside the directory, open terminal
+- go inside the directory
+- create a `.env` file and add the repository URL to `.env` file as shown below.
+
+### .env file
+```
+REACT_APP_LISTING_API_URL=https://api.github.com/orgs/godaddy/repos
+```
+
+> **Uploading the .env to the repository is discouraged due to which have not added this file.**
+
+
+- open terminal
 - run command `npm install` to install libraries
 - use command `npm start` to run the project
 - use command to run tests `npm test`
